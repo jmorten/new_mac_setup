@@ -83,22 +83,22 @@ And put some stuff in there.
     echo .DS_Store > ~/.gitignore_global
     ```
 
-1. Google Chrome
+1. [Google Chrome](https://www.google.com/chrome/)
     ```bash
     brew install google-chrome
     ```
 
-1. Java JDK
+1. [Java JDK](https://www.oracle.com/java/index.html)
     ```bash
     brew install java
     ```
 
-1. AWS CLI
+1. [AWS CLI](https://aws.amazon.com/cli/)
     ```bash
     brew intsall awscli
     ```
 
-1. Sublime
+1. [Sublime](https://www.sublimetext.com/)
     ```bash
     brew cask install sublime-text
     ```
@@ -108,13 +108,13 @@ And put some stuff in there.
     ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/su
     ```
     
-1. Python
+1. [Python](https://www.python.org/)
     ```bash
     brew install python
     pip install --upgrade pip setuptools
     ```
 
-1. R/RStudio
+1. [R](https://cran.r-project.org/)/[RStudio](https://www.rstudio.com/)
 
     #### Preperations:
     ```bash
@@ -180,7 +180,10 @@ And put some stuff in there.
     echo http_proxy=http://proxy.net:port > ~/.Renviron
     echo https_proxy=http://proxy.net:port >> ~/.Renviron
     ```
-1. LaTeX
-```bash
-brew install mactex
-```
+1. [LaTeX](https://www.latex-project.org/)
+
+    [Mactex](https://tug.org/mactex/)
+
+    ```bash
+    brew install mactex
+    ```
